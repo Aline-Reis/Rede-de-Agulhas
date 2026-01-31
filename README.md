@@ -97,7 +97,7 @@ Aplicar fundamentos de **UI Design** e **UX** para:
   🖼️ `./docs/figma/` *(adicione aqui as imagens das telas principais, ex.: Tela Inicial)*
 
 - **Protótipo no Figma (link público):**  
-  🔗 **[(https://www.figma.com/design/6cLVJy8wtD3qJ2H2AojLcg/Rede-de-Agulhas?node-id=0-1&t=2njiSOipX8BXW25Y-1)]**  
+  🔗 **[https://www.figma.com/proto/6cLVJy8wtD3qJ2H2AojLcg/Rede-de-Agulhas?node-id=98-125&p=f&t=ZX0tT4eyUBZGZmK5-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=98%3A125]**  
   > Garanta que o compartilhamento esteja como **“Qualquer pessoa com o link pode visualizar”**.
 
 ---
