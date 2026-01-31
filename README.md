@@ -94,7 +94,7 @@ Aplicar fundamentos de **UI Design** e **UX** para:
   📎https://whimsical.com/EdtmSE9kyPEio1uER4Mxkj
 
 - **Mockup (Figma - Alta fidelidade):**  
-  🖼️ https://www.figma.com/design/6cLVJy8wtD3qJ2H2AojLcg/Rede-de-Agulhas?node-id=98-125&t=T7R8Yw0k32P8yMb1-4
+  🖼️ https://1drv.ms/i/c/30169a7dbdac5b8e/IQA-Ep2ix3_URLuGXGS8h1PBAQmwx_zmvQ9E0R7HY1zC3a8?e=6NyBee
 
 - **Protótipo no Figma (link público):**  
   🔗 https://www.figma.com/proto/6cLVJy8wtD3qJ2H2AojLcg/Rede-de-Agulhas?page-id=0%3A1&node-id=98-125&p=f&viewport=250%2C220%2C0.19&t=vlyaB7dbzU2HBFTj-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=98%3A125
