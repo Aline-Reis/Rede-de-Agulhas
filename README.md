@@ -91,14 +91,13 @@ Aplicar fundamentos de **UI Design** e **UX** para:
 
 ## 🔗 Protótipos e Entregáveis
 - **Wireframe (Whimsical):**  
-  📎 `./docs/wireframes/` *(adicione aqui as imagens do wireframe)*
+  📎https://whimsical.com/EdtmSE9kyPEio1uER4Mxkj
 
 - **Mockup (Figma - Alta fidelidade):**  
-  🖼️ `./docs/figma/` *(adicione aqui as imagens das telas principais, ex.: Tela Inicial)*
+  🖼️ https://www.figma.com/design/6cLVJy8wtD3qJ2H2AojLcg/Rede-de-Agulhas?node-id=98-125&t=T7R8Yw0k32P8yMb1-4
 
 - **Protótipo no Figma (link público):**  
-  🔗 **[https://www.figma.com/proto/6cLVJy8wtD3qJ2H2AojLcg/Rede-de-Agulhas?node-id=98-125&p=f&t=ZX0tT4eyUBZGZmK5-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=98%3A125]**  
-  > Garanta que o compartilhamento esteja como **“Qualquer pessoa com o link pode visualizar”**.
+  🔗 https://www.figma.com/proto/6cLVJy8wtD3qJ2H2AojLcg/Rede-de-Agulhas?page-id=0%3A1&node-id=98-125&p=f&viewport=250%2C220%2C0.19&t=vlyaB7dbzU2HBFTj-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=98%3A125
 
 ---
 
